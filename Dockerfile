@@ -1,7 +1,7 @@
 
 FROM node:18-alpine3.16
 
-WORKDIR /capstone_labs
+WORKDIR /docker_express_labs
 
 COPY . .
 
